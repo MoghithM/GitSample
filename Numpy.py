@@ -1,0 +1,10 @@
+import numpy as np
+arr=np.array([1,2,3])
+print(arr)
+print(type(arr))
+a=np.zeros((2,3))
+b=np.ones((3,2))
+c=np.arange(0, 10 ,2)
+d=np.linspace(0,1,5)
+e=np.random.rand(2,2)
+print(a,b,c,d,e,sep='\n')

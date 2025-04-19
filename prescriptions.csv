@@ -1,0 +1,26 @@
+patient_id,patient_name,age,gender,disease,medicine,prescription_date
+1,Ravi Kumar,30,M,Fever,Paracetamol,2024-01-15
+2,Anita Devi,25,F,Cough,Benadryl,2024-01-20
+3,Rahul Sharma,40,M,Cold,Sinarest,2024-02-10
+4,Sunita Reddy,35,F,Fever,Paracetamol,2024-02-12
+5,Amit Singh,29,M,Diabetes,Metformin,2024-03-05
+6,Manoj Joshi,50,M,Asthma,Salbutamol,2024-04-01
+7,Deepa Iyer,22,F,Cold,Sinarest,2024-04-15
+8,Kiran Nair,45,M,Fever,Paracetamol,2024-05-18
+9,Neha Verma,33,F,Allergy,Cetrizine,2024-05-20
+10,Vikram Rathi,60,M,Arthritis,Ibuprofen,2024-06-10
+11,Swati Das,27,F,Cold,Sinarest,2024-06-18
+12,Nikhil Roy,38,M,Cough,Benadryl,2024-07-02
+13,Arun Pillai,32,M,Diabetes,Metformin,2024-07-08
+14,Priya Rao,26,F,Fever,Paracetamol,2024-08-01
+15,Farhan Ali,41,M,Asthma,Salbutamol,2024-08-15
+16,Kavya Menon,37,F,Allergy,Cetrizine,2024-09-05
+17,Meera Sinha,29,F,Cough,Benadryl,2024-09-20
+18,Alok Jain,47,M,Arthritis,Ibuprofen,2024-10-11
+19,Nisha Reddy,34,F,Cold,Sinarest,2024-10-25
+20,Suresh Patil,31,M,Fever,Paracetamol,2024-11-03
+21,Ravi Kumar,30,M,Fever,Paracetamol,2024-01-15
+22,Anita Devi,25,F,Cough,Benadryl,2024-01-20
+23,Deepa Iyer,22,F,Cold,Sinarest,2024-04-15
+24,Amit Singh,29,M,Diabetes,Metformin,2024-03-05
+25,Nisha Reddy,34,F,Cold,Sinarest,2024-10-25
